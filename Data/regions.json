@@ -1,0 +1,32 @@
+[
+  {
+    "region": "Asia",
+    "lat": "34,048",
+    "lon": "100,620"
+  },
+  {
+    "region": "Europe",
+    "lat": "54,526",
+    "lon": "15,255"
+  },
+  {
+    "region": "Africa",
+    "lat": "-8,783",
+    "lon": "34,509"
+  },
+  {
+    "region": "Oceania",
+    "lat": "-22,736",
+    "lon": "140,019"
+  },
+  {
+    "region": "Americas",
+    "lat": "54,526",
+    "lon": "-105,255"
+  },
+  {
+    "region": "Antarctica",
+    "lat": "-82,863",
+    "lon": "135,000"
+  }
+]

@@ -1,0 +1,250 @@
+name;lat;lon;alpha;region;sub-region
+Afghanistan;33,94;67,71;AF;1;18
+Åland Islands;60,18;19,92;AX;0;10
+Albania;41,15;20,17;AL;0;11
+Algeria;28,03;1,66;DZ;4;23
+American Samoa;-14,27;-170,13;AS;2;22
+Andorra;42,51;1,52;AD;0;11
+Angola;-11,20;17,87;AO;4;24
+Anguilla;18,22;-63,07;AI;3;26
+Antarctica;-82,86;135,00;AQ;5;27
+Antigua and Barbuda;17,06;-61,80;AG;3;26
+Argentina;-38,42;-63,62;AR;3;26
+Armenia;40,07;45,04;AM;1;16
+Aruba;12,52;-69,97;AW;3;26
+Australia;-25,27;133,78;AU;2;19
+Austria;47,52;14,55;AT;0;13
+Azerbaijan;40,14;47,58;AZ;1;16
+Bahamas;25,03;-77,40;BS;3;26
+Bahrain;26,07;50,56;BH;1;16
+Bangladesh;23,68;90,36;BD;1;18
+Barbados;13,19;-59,54;BB;3;26
+Belarus;53,71;27,95;BY;0;12
+Belgium;50,50;4,47;BE;0;13
+Belize;17,19;-88,50;BZ;3;26
+Benin;9,31;2,32;BJ;4;24
+Bermuda;32,31;-64,75;BM;3;25
+Bhutan;27,51;90,43;BT;1;18
+Bolivia (Plurinational State of);-16,29;-63,59;BO;3;26
+Bonaire, Sint Eustatius and Saba;12,18;-68,24;BQ;3;26
+Bosnia and Herzegovina;43,92;17,68;BA;0;11
+Botswana;-22,33;24,68;BW;4;24
+Bouvet Island;-54,42;3,35;BV;3;26
+Brazil;-14,24;-51,93;BR;3;26
+British Indian Ocean Territory;-6,34;71,88;IO;4;24
+Brunei Darussalam;4,54;114,73;BN;1;17
+Bulgaria;42,73;25,49;BG;0;12
+Burkina Faso;12,24;-1,56;BF;4;24
+Burundi;-3,37;29,92;BI;4;24
+Cabo Verde;16,54;-23,04;CV;4;24
+Cambodia;12,57;104,99;KH;1;17
+Cameroon;7,37;12,35;CM;4;24
+Canada;56,13;-106,35;CA;3;25
+Cayman Islands;19,31;-81,25;KY;3;26
+Central African Republic;6,61;20,94;CF;4;24
+Chad;15,45;18,73;TD;4;24
+Chile;-35,68;-71,54;CL;3;26
+China;35,86;104,20;CN;1;15
+Christmas Island;-10,45;105,69;CX;2;19
+Cocos (Keeling) Islands;-12,16;96,87;CC;2;19
+Colombia;4,57;-74,30;CO;3;26
+Comoros;-11,65;43,33;KM;4;24
+Congo;-4,04;21,76;CG;4;24
+Congo, Democratic Republic of the;-4,04;21,76;CD;4;24
+Cook Islands;-21,24;-159,78;CK;2;22
+Costa Rica;9,75;-83,75;CR;3;26
+Côte d'Ivoire;7,54;-5,55;CI;4;24
+Croatia;45,10;15,20;HR;0;11
+Cuba;21,52;-77,78;CU;3;26
+Curaçao;12,17;-68,99;CW;3;26
+Cyprus;35,13;33,43;CY;1;16
+Czechia;49,82;15,47;CZ;0;12
+Denmark;56,26;9,50;DK;0;10
+Djibouti;36,07;-79,76;DJ;4;24
+Dominica;15,41;-61,37;DM;3;26
+Dominican Republic;18,74;-70,16;DO;3;26
+Ecuador;-1,83;-78,18;EC;3;26
+Egypt;26,82;30,80;EG;4;23
+El Salvador;13,79;-88,90;SV;3;26
+Equatorial Guinea;1,65;10,27;GQ;4;24
+Eritrea;15,18;39,78;ER;4;24
+Estonia;58,60;25,01;EE;0;10
+Eswatini;-26,52;31,47;SZ;4;24
+Ethiopia;9,15;40,49;ET;4;24
+Falkland Islands (Malvinas);-51,80;-59,52;FK;3;26
+Faroe Islands;61,89;-6,91;FO;0;10
+Fiji;-17,71;178,07;FJ;2;20
+Finland;61,92;25,75;FI;0;10
+France;46,23;2,21;FR;0;13
+French Guiana;3,93;-53,13;GF;3;26
+French Polynesia;-17,68;-149,41;PF;2;22
+French Southern Territories;-49,28;69,35;TF;4;24
+Gabon;-0,80;11,61;GA;4;24
+Gambia;13,44;-15,31;GM;4;24
+Georgia;32,17;-82,90;GE;1;16
+Germany;51,17;10,45;DE;0;13
+Ghana;7,95;-1,02;GH;4;24
+Gibraltar;36,14;-5,35;GI;0;11
+Greece;39,07;21,82;GR;0;11
+Greenland;71,71;-42,60;GL;3;25
+Grenada;12,12;-61,68;GD;3;26
+Guadeloupe;16,27;-61,55;GP;3;26
+Guam;13,44;144,79;GU;2;21
+Guatemala;15,78;-90,23;GT;3;26
+Guernsey;49,45;-2,59;GG;0;10
+Guinea;9,95;-9,70;GN;4;24
+Guinea-Bissau;11,80;-15,18;GW;4;24
+Guyana;4,86;-58,93;GY;3;26
+Haiti;18,97;-72,29;HT;3;26
+Heard Island and McDonald Islands;-53,08;73,50;HM;2;19
+Holy See;40,75;-73,98;VA;0;11
+Honduras;15,20;-86,24;HN;3;26
+Hong Kong;22,32;114,17;HK;1;15
+Hungary;47,16;19,50;HU;0;12
+Iceland;64,96;-19,02;IS;0;10
+India;20,59;78,96;IN;1;18
+Indonesia;-0,79;113,92;ID;1;17
+Iran (Islamic Republic of);32,43;53,69;IR;1;18
+Iraq;33,22;43,68;IQ;1;16
+Ireland;53,14;-7,69;IE;0;10
+Isle of Man;54,24;-4,55;IM;0;10
+Israel;31,05;34,85;IL;1;16
+Italy;41,87;12,57;IT;0;11
+Jamaica;18,11;-77,30;JM;3;26
+Japan;36,20;138,25;JP;1;15
+Jersey;49,21;-2,14;JE;0;10
+Jordan;36,09;-95,93;JO;1;16
+Kazakhstan;48,02;66,92;KZ;1;14
+Kenya;-0,02;37,91;KE;4;24
+Kiribati;-3,37;-168,73;KI;2;21
+Korea (Democratic People's Republic of);40,34;127,51;KP;1;15
+Korea, Republic of;35,91;127,77;KR;1;15
+Kuwait;29,31;47,48;KW;1;16
+Kyrgyzstan;41,20;74,77;KG;1;14
+Lao People's Democratic Republic;19,86;102,50;LA;1;17
+Latvia;56,88;24,60;LV;0;10
+Lebanon;33,85;35,86;LB;1;16
+Lesotho;-29,61;28,23;LS;4;24
+Liberia;6,43;-9,43;LR;4;24
+Libya;26,34;17,23;LY;4;23
+Liechtenstein;47,17;9,56;LI;0;13
+Lithuania;55,17;23,88;LT;0;10
+Luxembourg;49,82;6,13;LU;0;13
+Macao;22,20;113,54;MO;1;15
+Madagascar;-18,77;46,87;MG;4;24
+Malawi;-13,25;34,30;MW;4;24
+Malaysia;4,21;101,98;MY;1;17
+Maldives;3,20;73,22;MV;1;18
+Mali;17,57;-4,00;ML;4;24
+Malta;35,94;14,38;MT;0;11
+Marshall Islands;7,13;171,18;MH;2;21
+Martinique;14,64;-61,02;MQ;3;26
+Mauritania;21,01;-10,94;MR;4;24
+Mauritius;-20,35;57,55;MU;4;24
+Mayotte;-12,83;45,17;YT;4;24
+Mexico;23,63;-102,55;MX;3;26
+Micronesia (Federated States of);7,43;150,55;FM;2;21
+Moldova, Republic of;47,41;28,37;MD;0;12
+Monaco;43,74;7,42;MC;0;13
+Mongolia;46,86;103,85;MN;1;15
+Montenegro;42,71;19,37;ME;0;11
+Montserrat;16,74;-62,19;MS;3;26
+Morocco;31,79;-7,09;MA;4;23
+Mozambique;-18,67;35,53;MZ;4;24
+Myanmar;21,92;95,96;MM;1;17
+Namibia;-22,96;18,49;NA;4;24
+Nauru;-0,52;166,93;NR;2;21
+Nepal;28,39;84,12;NP;1;18
+Netherlands;52,13;5,29;NL;0;13
+New Caledonia;-20,90;165,62;NC;2;20
+New Zealand;-40,90;174,89;NZ;2;19
+Nicaragua;12,87;-85,21;NI;3;26
+Niger;17,61;8,08;NE;4;24
+Nigeria;9,08;8,68;NG;4;24
+Niue;-19,05;-169,87;NU;2;22
+Norfolk Island;-29,04;167,95;NF;2;19
+North Macedonia;41,61;21,75;MK;0;11
+Northern Mariana Islands;15,10;145,67;MP;2;21
+Norway;60,47;8,47;NO;0;10
+Oman;21,47;55,98;OM;1;16
+Pakistan;30,38;69,35;PK;1;18
+Palau;7,51;134,58;PW;2;21
+Palestine, State of;31,95;35,23;PS;1;16
+Panama;8,54;-80,78;PA;3;26
+Papua New Guinea;-8,52;149,10;PG;2;20
+Paraguay;-23,44;-58,44;PY;3;26
+Peru;-9,19;-75,02;PE;3;26
+Philippines;12,88;121,77;PH;1;17
+Pitcairn;-24,38;-128,32;PN;2;22
+Poland;51,92;19,15;PL;0;12
+Portugal;39,40;-8,22;PT;0;11
+Puerto Rico;18,22;-66,59;PR;3;26
+Qatar;25,35;51,18;QA;1;16
+Réunion;-21,12;55,54;RE;4;24
+Romania;45,94;24,97;RO;0;12
+Russian Federation;61,52;105,32;RU;0;12
+Rwanda;-1,94;29,87;RW;4;24
+Saint Barthélemy;17,90;-62,83;BL;3;26
+Saint Helena, Ascension and Tristan da Cunha;-24,14;-10,03;SH;4;24
+Saint Kitts and Nevis;17,36;-62,78;KN;3;26
+Saint Lucia;13,91;-60,98;LC;3;26
+Saint Martin (French part);18,07;-63,05;MF;3;26
+Saint Pierre and Miquelon;46,89;-56,32;PM;3;25
+Saint Vincent and the Grenadines;12,98;-61,29;VC;3;26
+Samoa;-13,76;-172,10;WS;2;22
+San Marino;43,94;12,46;SM;0;11
+Sao Tome and Principe;0,19;6,61;ST;4;24
+Saudi Arabia;23,89;45,08;SA;1;16
+Senegal;14,50;-14,45;SN;4;24
+Serbia;44,02;21,01;RS;0;11
+Seychelles;-4,68;55,49;SC;4;24
+Sierra Leone;8,46;-11,78;SL;4;24
+Singapore;1,35;103,82;SG;1;17
+Sint Maarten (Dutch part);18,03;-63,07;SX;3;26
+Slovakia;48,67;19,70;SK;0;12
+Slovenia;46,15;15,00;SI;0;11
+Solomon Islands;-9,65;160,16;SB;2;20
+Somalia;5,15;46,20;SO;4;24
+South Africa;-30,56;22,94;ZA;4;24
+South Georgia and the South Sandwich Islands;-54,43;-36,59;GS;3;26
+South Sudan;6,88;31,31;SS;4;24
+Spain;40,46;-3,75;ES;0;11
+Sri Lanka;7,87;80,77;LK;1;18
+Sudan;12,86;30,22;SD;4;23
+Suriname;3,92;-56,03;SR;3;26
+Svalbard and Jan Mayen;77,55;23,67;SJ;0;10
+Sweden;60,13;18,64;SE;0;10
+Switzerland;46,82;8,23;CH;0;13
+Syrian Arab Republic;34,80;39,00;SY;1;16
+Taiwan, Province of China;23,70;120,96;TW;1;15
+Tajikistan;38,86;71,28;TJ;1;14
+Tanzania, United Republic of;-6,37;34,89;TZ;4;24
+Thailand;15,87;100,99;TH;1;17
+Timor-Leste;-8,87;125,73;TL;1;17
+Togo;8,62;0,82;TG;4;24
+Tokelau;-9,20;-171,85;TK;2;22
+Tonga;-21,18;-175,20;TO;2;22
+Trinidad and Tobago;10,69;-61,22;TT;3;26
+Tunisia;33,89;9,54;TN;4;23
+Turkey;38,96;35,24;TR;1;16
+Turkmenistan;38,97;59,56;TM;1;14
+Turks and Caicos Islands;21,69;-71,80;TC;3;26
+Tuvalu;-7,11;177,65;TV;2;22
+Uganda;1,37;32,29;UG;4;24
+Ukraine;48,38;31,17;UA;0;12
+United Arab Emirates;23,42;53,85;AE;1;16
+United Kingdom of Great Britain and Northern Ireland;55,38;-3,44;GB;0;10
+United States Minor Outlying Islands;19,28;166,65;UM;2;21
+United States of America;37,09;-95,71;US;3;25
+Uruguay;-32,52;-55,77;UY;3;26
+Uzbekistan;41,38;64,59;UZ;1;14
+Vanuatu;-15,38;166,96;VU;2;20
+Venezuela (Bolivarian Republic of);6,42;-66,59;VE;3;26
+Viet Nam;14,06;108,28;VN;1;17
+Virgin Islands (British);18,42;-64,64;VG;3;26
+Virgin Islands (U.S.);18,34;-64,90;VI;3;26
+Wallis and Futuna;-14,29;-178,12;WF;2;22
+Western Sahara;24,22;-12,89;EH;4;23
+Yemen;15,55;48,52;YE;1;16
+Zambia;-13,13;27,85;ZM;4;24
+Zimbabwe;-19,02;29,15;ZW;4;24

@@ -1,0 +1,92 @@
+[
+  {
+    "subregion": "Southern Asia",
+    "lat": "25,04",
+    "lon": "76,46"
+  },
+  {
+    "subregion": "Northern Europe",
+    "lat": "62,28",
+    "lon": "12,34"
+  },
+  {
+    "subregion": "Southern Europe",
+    "lat": "41,27",
+    "lon": "-1,21"
+  },
+  {
+    "subregion": "Northern Africa",
+    "lat": "26,02",
+    "lon": "32,28"
+  },
+  {
+    "subregion": "Polynesia",
+    "lat": "-16,84",
+    "lon": "-148,37"
+  },
+  {
+    "subregion": "Sub-Saharan Africa",
+    "lat": "44,96",
+    "lon": "-93,20"
+  },
+  {
+    "subregion": "Latin America and the Caribbean",
+    "lat": "21,47",
+    "lon": "-78,66"
+  },
+  {
+    "subregion": "Antarctica",
+    "lat": "-82,86",
+    "lon": "135,00"
+  },
+  {
+    "subregion": "Western Asia",
+    "lat": "38,91",
+    "lon": "-77,04"
+  },
+  {
+    "subregion": "Australia and New Zealand",
+    "lat": "-41,27",
+    "lon": "174,78"
+  },
+  {
+    "subregion": "Western Europe",
+    "lat": "46,20",
+    "lon": "1,26"
+  },
+  {
+    "subregion": "Eastern Europe",
+    "lat": "52,01",
+    "lon": "37,96"
+  },
+  {
+    "subregion": "Northern America",
+    "lat": "37,09",
+    "lon": "-95,71"
+  },
+  {
+    "subregion": "South-eastern Asia",
+    "lat": "-2,22",
+    "lon": "115,66"
+  },
+  {
+    "subregion": "Eastern Asia",
+    "lat": "38,79",
+    "lon": "106,53"
+  },
+  {
+    "subregion": "Melanesia",
+    "lat": "-8,19",
+    "lon": "152,83"
+  },
+  {
+    "subregion": "Micronesia",
+    "lat": "7,43",
+    "lon": "150,55"
+  },
+  {
+    "subregion": "Central Asia",
+    "lat": "45,45",
+    "lon": "68,83"
+  }
+]

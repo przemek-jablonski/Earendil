@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Asia",
+        "lat": 34.048,
+        "lon": 100.620
+    },
+    {
+        "id": 0,
+        "name": "Europe",
+        "lat": 49.86,
+        "lon": 14.00
+    },
+    {
+        "id": 4,
+        "name": "Africa",
+        "lat": 0.00,
+        "lon": 15.50
+    },
+    {
+        "id": 2,
+        "name": "Oceania",
+        "lat": -22.736,
+        "lon": 140.019
+    },
+    {
+        "id": 3,
+        "name": "Americas",
+        "lat": 16.07,
+        "lon": -81.21
+    },
+    {
+        "id": 5,
+        "name": "Antarctica",
+        "lat": -82.863,
+        "lon": 135.000
+    }
+]
