@@ -46,12 +46,12 @@ jobs:
     - name: Show eligible build destinations
       run: xcodebuild -showdestinations -scheme Earendil  
     - name: Build and test on  ${{ env.iosdevice }}, ${{ env.iosversion }}
-      run: xcodebuild ${{ env.xcodebuildcommand }} -scheme ${{ env.schemename }} -destination 'platform=iOS Simulator,OS=${{ iosversion }},name=${{ env.iosdevice }}'
+      run: xcodebuild ${{ env.xcodebuildcommand }} -scheme ${{ env.schemename }} -destination 'platform=iOS Simulator,OS=${{ env.iosversion }},name=${{ env.iosdevice }}'
     - name: Build and test on  ${{ env.tvosdevice }}, ${{ env.tvosversion }}
-      run: xcodebuild ${{ env.xcodebuildcommand }} -scheme ${{ env.schemename }} -destination 'platform=tvOS Simulator,OS=${{ tvosversion }},name=${{ env.tvosdevice }}'
+      run: xcodebuild ${{ env.xcodebuildcommand }} -scheme ${{ env.schemename }} -destination 'platform=tvOS Simulator,OS=${{ env.tvosversion }},name=${{ env.tvosdevice }}'
     - name: Build and test on  ${{ env.watchosdevice }}, ${{ env.watchosversion }}
 #       if: ${{ !startsWith(env.watchosversion, "7") }}
-      run: xcodebuild ${{ env.xcodebuildcommand }} -scheme ${{ env.schemename }} -destination 'platform=watchOS Simulator,OS=${{ watchosversion }},name=${{ env.watchosdevice }}'
+      run: xcodebuild ${{ env.xcodebuildcommand }} -scheme ${{ env.schemename }} -destination 'platform=watchOS Simulator,OS=${{ env.watchosversion }},name=${{ env.watchosdevice }}'
     - name: Build and test on  macOS
       run: xcodebuild ${{ env.xcodebuildcommand }} -scheme ${{ env.schemename }} -destination 'platform=macOS,arch=x86_64,id=4203018E-580F-C1B5-9525-B745CECA79EB'
     - name: Build and test on  mac Catalyst 
