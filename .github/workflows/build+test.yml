@@ -15,8 +15,8 @@ jobs:
     runs-on: macos-11
     continue-on-error: true
     env:
-      xcodebuildcommand: test
-      schemename: Earendil
+      xcodebuildcommand: 'test'
+      schemename: 'Earendil'
       iosdevice: 'iPhone 12 Pro'
       iosversion: 15.0
       tvosdevice: 'Apple TV 4K (2nd generation)'
