@@ -17,11 +17,11 @@ jobs:
     env:
       xcodebuildcommand: test
       schemename: Earendil
-      iosdevice: iPhone 12 Pro
+      iosdevice: 'iPhone 12 Pro'
       iosversion: 15.0
-      tvosdevice: Apple TV 4K (2nd generation)
+      tvosdevice: 'Apple TV 4K (2nd generation)'
       tvosversion: 15.0
-      watchosdevice: Apple Watch Series 6 - 40mm
+      watchosdevice: 'Apple Watch Series 6 - 40mm'
       watchosversion: 8.0
 #     strategy:
 #       fail-fast: false
