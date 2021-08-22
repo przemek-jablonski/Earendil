@@ -5,14 +5,27 @@ on:
     branches: [ main ]
   pull_request:
     branches: [ main ]
+  repository_dispatch:
+    types: ["trigger-event"]
   schedule:
     - cron: 0 0 * * *
 
 jobs:
-  build:
+  build+test:
     runs-on: macos-11
     steps:
-    - uses: actions/checkout@v2
+    - name: XCode switch ()
+      uses: maxim-lobanov/setup-xcode@v1.2.3
+      with:
+        xcode-version: '12.0'
+    - name: Check xcodebuild version
+      run: xcodebuild -version
+    - name: Show buildable schemes
+      run: xcodebuild -list
+    - name: Show eligible build destinations
+      run: xcodebuild -showdestinations -scheme Earendil  
+    - name: Code Checkout
+      uses: actions/checkout@v2
     - name: Build
       run: swift build -v
     - name: Run tests
