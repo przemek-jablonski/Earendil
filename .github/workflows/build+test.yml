@@ -92,5 +92,5 @@ jobs:
       run: xcodebuild test -scheme Earendil -destination 'platform=tvOS Simulator,OS=14.3,name=Apple TV 4K'
     - name: Build and test ( iOS 14.4)
       run: xcodebuild test -scheme Earendil -destination 'platform=iOS Simulator,OS=14.4,name=iPhone 8'
-    - name: Build and test ( watchOS 7.2)
-      run: xcodebuild test -scheme Earendil -destination 'platform=watchOS Simulator,OS=7.2,name=Apple Watch Series 4 - 44mm'
+#    - name: Build and test ( watchOS 7.2) // commented out due to watchOS 7.x not supporting xcodebuild test at all
+#      run: xcodebuild test -scheme Earendil -destination 'platform=watchOS Simulator,OS=7.2,name=Apple Watch Series 4 - 44mm'
