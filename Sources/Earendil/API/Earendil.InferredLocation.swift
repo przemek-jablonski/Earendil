@@ -1,5 +1,5 @@
 public extension Earendil {
-    struct InferredLocation {
+    struct InferredLocation: Equatable {
         public let country: Earendil.Location
         public let region: Earendil.Location?
         public let subregion: Earendil.Location?
