@@ -11,7 +11,7 @@ on:
 
 jobs:
   build_and_test_xcode:
-    name: Build and test all  platforms (xcode 13)
+    name: Build and test all  platforms (xcode ${{ matrix.xcodeversion }})
     runs-on: macos-11
     continue-on-error: false
     env:
@@ -30,6 +30,10 @@ jobs:
       fail-fast: false
       matrix:
         xcodeversion: [13.0, 12.5.1, 12.4]
+        include:
+          - xcodeversion: 12.5.1
+            iosdevice: 'iPhone 12 Pro Max'
+            iosversion: 14.5
       
       
 #     strategy:
