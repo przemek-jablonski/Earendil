@@ -126,5 +126,3 @@ final class InferredLocationProviderTestCase: XCTestCase {
     }
     
 }
-
-// calling Earendil.inferred == Earendil.Provider.inferred

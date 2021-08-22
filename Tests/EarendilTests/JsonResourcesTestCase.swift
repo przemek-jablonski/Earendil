@@ -36,8 +36,6 @@ final class JsonResourcesTestCase: XCTestCase {
         XCTAssertEqual(entries.count, targetCount)
     }
     
-    // hardcoded tests for most popular countries maybe?
-    
     func testCountriesJsonEntriesShouldHaveUniqueAlphaCodes() {
         let decodingType = Earendil.Json.Country.self
         let resourceFile = Earendil.Resource.countriesList
@@ -198,7 +196,6 @@ private extension String {
      - Note: Will return `true` when the string is empty (`""`), and also returns `true` if string has only whitespaces (eg. `" "`, `"\n"`, `"\n "`).
      */
     var isEmptyNoWhitespaces: Bool {
-        // TODO: test that
         filter ({ !CharacterSet.whitespacesAndNewlines.contains($0.unicodeScalars.first!) }).isEmpty
     }
 }
