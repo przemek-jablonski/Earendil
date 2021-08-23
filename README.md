@@ -40,8 +40,6 @@ This approach has some consequences, mainly:
 - Users travelling to another country won't update Earendil's location (which may even be desired).
 - Setting location-agnostic Locale (such as `eu` instead of `eu_ES` or `en` instead of `en_US`) will prevent Earendil from getting proper location.
 
-</br>
-
 ## Installation
 
 Available through Swift Package Manager - open up the xcode, type this repos URL and you are good to go.
