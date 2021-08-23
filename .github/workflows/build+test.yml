@@ -50,6 +50,4 @@ jobs:
         scheme: ${{ matrix.scheme }}
         code-coverage: true
         verbosity: xcpretty
-        description: always
-        
-        
+        upload-logs: always
