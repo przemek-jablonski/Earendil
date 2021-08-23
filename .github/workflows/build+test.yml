@@ -29,19 +29,11 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        xcodeversion: [13.0, 12.5.1, 12.4]
+        xcodeversion: ['13.0', '12.5.1', '12.4']
         include:
-          - xcodeversion: 12.5.1
-            iosdevice: 'iPhone 12 Pro Max'
+          - xcodeversion: '12.5.1'
+            iosdevice: 'iPhone 11 Pro Max'
             iosversion: 14.5
-      
-      
-#     strategy:
-#       fail-fast: false
-#       matrix:
-#         xcodeversion: [13.0, 12.5.1, 12.4]
-#         xcodebuildcommand: [test]
-#         schemename: [Earendil]
         
     steps:
     - name: xcode switch to ${{ matrix.xcodeversion }}
