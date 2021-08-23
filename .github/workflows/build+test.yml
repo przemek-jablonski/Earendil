@@ -11,7 +11,7 @@ on:
 
 jobs:
   build_and_test_xcode13:
-    name: Test on  ${{ matrix.platform }} (xcode ${{ matrix.xcode }}, ${{ matrix.macos }})
+    name: ${{ matrix.command }} on  ${{ matrix.platform }} (xcode ${{ matrix.xcode }}, ${{ matrix.macos }})
     runs-on: ${{ matrix.macos }} 
     strategy:
       fail-fast: false
@@ -19,6 +19,7 @@ jobs:
         xcode: ['13.0', '12.5.1', '12.0.1']
         macos: ['macos-11', 'macos-10.15']
         scheme: ['Earendil']
+        command: ['test']
         platform: ['macOS', 'iOS', 'tvOS', 'watchOS', 'mac-catalyst']
         exclude:
           - macos: 'macos-11'
@@ -47,10 +48,10 @@ jobs:
     - name: Show eligible build destinations for ${{ matrix.scheme }}
       run: xcodebuild -showdestinations -scheme ${{ matrix.scheme }}
     - uses: mxcl/xcodebuild@v1.9.2
-#       if: ${{ matrix.platform == 'watchOS' && matrix.xcode != '12.0.1' }}
       with:
         platform: ${{ matrix.platform }}
         scheme: ${{ matrix.scheme }}
+        action: ${{ matrix.command }} 
         code-coverage: true
         verbosity: xcpretty
         upload-logs: always
