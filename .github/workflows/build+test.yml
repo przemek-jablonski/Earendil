@@ -10,7 +10,7 @@ on:
     - cron: 0 0 * * *
 
 jobs:
-  build_and_test_xcode13:
+  build_and_test:
     name: ${{ matrix.command }} on  ${{ matrix.platform }} (xcode ${{ matrix.xcode }}, ${{ matrix.macos }})
     runs-on: ${{ matrix.macos }} 
     strategy:
